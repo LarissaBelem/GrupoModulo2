@@ -15,8 +15,9 @@ Fiz e organizei a documentação das etapas do projeto;
 
 # Leticia Moretti
 
-
-
+° Responsável pela pagina de apresentação do produto;
+° Criação da ilustração do App, pelo Canva;
+° Criação do Design da página sobre o produto;
 
 # Maria do Carmo
 
@@ -28,4 +29,5 @@ Responsável pelas páginas Login e Redifinição de senha
 Responsável pela página home;
 Fui responsável por consertar os bugs da quebra de layout e reestruturação dos arquivos CSS;
 Responsável por elaborar toda a apresentação do projeto e o pitch no canvas;
+Fui responsável pela ideia do aplicativo;
 
