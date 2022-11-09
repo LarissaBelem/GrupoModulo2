@@ -1,33 +1,51 @@
-# Contribuições para o Projeto
+<h1>Front Enders</h1>
 
-# Ingrid Cássia
+<h2>Sobre o projeto</h1>
 
-Responsável pela 
-Criei a validação do campos de CEP e Email;
-Organizei a estrutura de arquivos e pastas do Projeto;
+Trata-se do lançamento de um novo aplicativo o Color Front, voltado a ajudar marcas ou pessoas independentes a fazerem um site com uma paleta de cores única de acordo com o que a pessoa deseja passar através da sua marca ou produto, com a ajuda da psicologia das cores. 
 
-# Larissa Belem
+<h2>Contribuições para o Projeto</h2>
 
-Criei o repositorio do Projeto;
-Realizei a análise dos dados utilizado para o desenvolvimento do projeto;
-Criei a página de contatos;
-Fiz e organizei a documentação das etapas do projeto;
+<h3>Ingrid Cássia</h3>
 
-# Leticia Moretti
+<ul>
+  <li>Responsável pela página Lista de Espera/Cadastro; </li>
+  <li>Colocou a validação dos campos de CEP e SENHA; </li>
+  <li>Organizou a estrutura de arquivos e pastas do Projeto; </li>
+  <li>Criação do layout com ilustração do aplicativo na PlayStore; </li>
+</ul>
 
-° Responsável pela pagina de apresentação do produto;
-° Criação da ilustração do App, pelo Canva;
-° Criação do Design da página sobre o produto;
+<h3> Larissa Belem </h3>
 
-# Maria do Carmo
+<ul>
+  <li>Realizou a análise dos dados utilizado para o desenvolvimento do projeto;</li>
+  <li>Responsável pela página contato;</li>
+  <li>Fez e organizou a documentação das etapas do projeto;</li>
+</ul>
 
-Criei a logo, nome da plataforma e os designs utilizados no projeto;
-Responsável pelas páginas Login e Redifinição de senha
+<h3>Leticia Moretti</h3>
+<ul>
+  <li>Responsável pela pagina de apresentação do produto;</li>
+  <li>Criou a ilustração do App, pelo Canva;</li>
+  <li>Criou o Design da página sobre o produto;</li>
+  <li>Adicionou cookies na paginá home e libras em todas as paginás do projeto </li>
+</ul>
 
-# Raphaela Vargas
+<h3>Maria do Carmo</h3>
 
-Responsável pela página home;
-Fui responsável por consertar os bugs da quebra de layout e reestruturação dos arquivos CSS;
-Responsável por elaborar toda a apresentação do projeto e o pitch no canvas;
-Fui responsável pela ideia do aplicativo;
+<ul>
+     <li>Criei a logo, nome da plataforma e os designs utilizados no projeto;</li>
+     <li>Responsável pelas páginas Login e Redifinição de senha; </li>
+     <li>Fez o Favicon ( Com ajuda da Lética ) </li>
+     <li>
+</ul>
 
+<h3> Rafaela Vargas </h3>
+
+<ul> 
+     <li>Responsável pela página home;</li>
+     <li>Foi responsável por consertar os bugs e ajudar nos arquivos CSS e JavaScript ( das páginas da Ingrid, Maria e Larissa );</li>
+     <li>Responsável por elaborar toda a apresentação do projeto pelo canvas; </li>
+     <li>Responsável pela ideia do novo produto oferecido pela Front Enders; </li>
+     <li>Fez o cabeçalho e o rodapé de todas as páginas, para que podessemos seguir um padrão </li> 
+</ul>
